@@ -1,4 +1,4 @@
-# Taxi-using-q-learning
+
 
 
 # Taxi-v3 using Q-Learning
@@ -12,8 +12,9 @@ This project implements **Q-learning** to train an agent in the **Taxi-v3 enviro
 - Saves and loads the trained **Q-table**.
 
 ## Installation & Requirements
-Pygame
-Pyvirtualdisplay
+*Pygame
+
+*Pyvirtualdisplay
 
 ## Explanation
 The state space consists of 500 discrete states (taxi position, passenger location, destination).
