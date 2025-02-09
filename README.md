@@ -28,4 +28,5 @@ Through this, the agent is able to make acccurate drop and pick up.
 
 ## File Structure
 taxi-using-q-learning.ipynb: Jupyter Notebook implementing Q-learning for Taxi-v3.
+
 Taxi with modified parameters.ipynb: Jupyter Notebook implementing Q-learning with modified parameters.
